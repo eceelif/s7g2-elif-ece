@@ -1,3 +1,14 @@
+# TODO : 
+* component isimlerini düzeltelim.
+    1. listelemeyi doğru bir şekilde yapılmalı.
+     1. a. listelemede silme butonu eklenmeli.
+     1. b listelemenin üstünde yeni kayıt butonu olmalı.
+    2. clicklenen öğe form componentinin içinde detayları ile gözükmeli.
+
+
+
+
+
 # Sprint Gün Projesi: Formlar - Takım Oluşturucu
 
 Bu proje, sprint 7 gün 2'de öğrenilen kavram ve teknikleri uygulamanıza ve bunları somut bir projede uygulamanıza olanak tanır. Bugün, React'te Form yönetimini keşfettin. Input kontrolleri, semantik HTML, yayılma operatörü ve işlenmiş özellikler gibi bazı ES6 araçları ve sentetik eventler hakkında bilgi edindin. Projende bu konu ve ilkelerdeki yeterliliğini, her birini kullanarak bir uygulama oluşturarak göstereceksin.
