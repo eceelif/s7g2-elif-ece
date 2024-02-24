@@ -146,7 +146,7 @@ return (
                 </label> 
             </p>
         </div>
-        <button>Kaydet</button>
+        <button>kaydet</button>
 </form>
 </>
 )
